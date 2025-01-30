@@ -4,8 +4,8 @@
         "env": "dev",
         "branch": "develop",
         "enabled": true,
-        "account": "XXXXXXXXXXXX",
-        "region": ["us-east-1", "us-west-2"],
+        "account": "591880500172",
+        "region": ["us-east-1"],
         "app": "ACME"
     },
     {
